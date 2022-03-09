@@ -1,0 +1,43 @@
+div{
+    background-color: ghostwhite;
+    border: 1px solid black;
+    border-radius: 30px;
+
+}
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20 px;
+    padding: 10 px;
+}
+#p_visits{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20 px;
+    padding: 10 px;
+}
+#p_name{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20 px;
+    padding: 100 px;
+}
+#age {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20 px;
+    padding: 50 px;
+}
+#dep{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50 px;
+    
+}
+#date{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20 px;
+    padding: 50 px;
+}
+#button{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.25 em;
+    color: #000;
+    padding: 50 px;
+}
